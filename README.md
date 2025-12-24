@@ -7,10 +7,6 @@ It evaluates a borrower’s profile and returns a **credit score, risk band, len
 👉 Transparent logic.
 👉 Built to show how **real lending systems think**.
 
-
----
-##Live Demo
-https://credit-scoring-engine-80ft.onrender.com/
 ---
 
 ## 🚀 What does this API do?
@@ -38,6 +34,8 @@ This mimics how early-stage or rule-based lending systems work in practice.
 ## 🌐 Live Demo (Important ⚠️)
 
 This project is deployed using **Render’s free tier**.
+
+link: https://credit-scoring-engine-80ft.onrender.com/
 
 ⏳ **Important note**:
 
