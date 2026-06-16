@@ -169,8 +169,6 @@ http://127.0.0.1:8000/docs
 * This is a **rule-based**, explainable system
 * No black-box ML models are used
 * Built to demonstrate **systems thinking, finance logic, and deployment**
-* Perfect as a **learning + portfolio project**
-
 ---
 
 ## 🙌 Final Note
